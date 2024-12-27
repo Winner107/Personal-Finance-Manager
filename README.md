@@ -40,7 +40,7 @@ python personal_finance_manager.py
 ```
 
 # Screenshots 📸
-![Sample Visualization](link-to-your-screenshot)  
+![Sample Visualization](./Expense_pie_chart.png)  
 *Sample visualization of expense categories.*
 
 # Future Improvements 🛠
@@ -50,9 +50,6 @@ python personal_finance_manager.py
 
 # Contributing 🤝
 Contributions are welcome! Feel free to open issues or submit pull requests to improve the project.  
-
-# License 📄
-This project is licensed under the **MIT License**. See the [LICENSE](LICENSE) file for details.  
 
 # Acknowledgments 🙌
 - Inspired by the need for simple and effective personal finance management tools.  
